@@ -2,6 +2,8 @@
 
 Made by: Trần Đặng Mạnh An
 
+**Last updated: January 15, 2024**
+
 # Notes: 
 While Kaggle datasets often have some limitations, such as unguaranteed accuracy and lack of detailed information about the data source, they remain a valuable resource for me to learn and practice data analysis skills.
 
