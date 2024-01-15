@@ -1,6 +1,6 @@
 # Personal-Project
 
-Made by: Trần Đặng Mạnh An
+. Made by: Trần Đặng Mạnh An
 
 Last updated: January 15, 2024
 
