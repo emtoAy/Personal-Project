@@ -1,6 +1,7 @@
 # INTRODUCTION ABOUT THE PROJECT
 
 --Context--
+
 Data analytics is increasingly being used by businesses to optimize their business decisions, especially in digital areas such as e-commerce and marketing. Customer consumption is the key to competition and development of businesses in the context of increasingly popular online consumption habits after the Covid-19 epidemic.
 
 --Objective--
