@@ -1,14 +1,14 @@
 # INTRODUCTION ABOUT THE PROJECT
 
---Context--
+## Context
 
-Data analytics is increasingly being used by businesses to optimize their business decisions, especially in digital areas such as e-commerce and marketing. Customer consumption is the key to competition and development of businesses in the context of increasingly popular online consumption habits after the Covid-19 epidemic.
+Businesses are using data analytics more and more to improve their decision-making. It's essential for businesses to understand and handle credit risk effectively in today's environment, especially with the rise of online consumption habits.
 
---Objective--
+## Objective
 
-This report will focus on analyzing consumer behaviors that affect customer churn. This concept refers to a state in which customers leave and stop using a company's product or service for a period of time. Usually, the company will measure and analyze to evaluate the effectiveness of its business and marketing strategy based on this indicator. Furthermore, this report also recommend model for machine learning that best fit to this dataset and in order to predict output for business in this context. On top of that, bringing out some solution that can solve business problems on previous analysis and insights
+This report examines how people's behavior influences their probability of defaulting on loans or debts. The company utilizes this information to determine lending practices and evaluate risk. It also recommends employing a machine learning model for credit risk prediction. Additionally, it provides suggestions for addressing business challenges and insights.
 
-Main questions
+## Main questions
 What are trends and symptoms to turn a customer into churn?
 
 What are correlation between contributors and how it affect each other in dataset?
