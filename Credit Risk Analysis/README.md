@@ -19,7 +19,7 @@ Which model demonstrates the best performance in predicting customer loan repaym
 
 How can these insights be applied in the context of lending business?
 
-##Challenges Faced by Customers in Making Financial Decisions for Loans
+## Challenges Faced by Customers in Making Financial Decisions for Loans
 
 What are the key obstacles and patterns that indicate customers' difficulties in making financial decisions when applying for loans?
 
