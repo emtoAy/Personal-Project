@@ -9,38 +9,22 @@ Businesses are using data analytics more and more to improve their decision-maki
 This report examines how people's behavior influences their probability of defaulting on loans or debts. The company utilizes this information to determine lending practices and evaluate risk. It also recommends employing a machine learning model for credit risk prediction. Additionally, it provides suggestions for addressing business challenges and insights.
 
 ## Main questions
-What are trends and symptoms to turn a customer into churn?
+What are the indicators and trends that reflect a customer's likelihood of repaying a loan?
 
-What are correlation between contributors and how it affect each other in dataset?
+How do different factors within the dataset correlate and influence each other in predicting customer loan repayment probability?
 
-Which features contribute significantly to the output of customer churn? Explain
+Which specific attributes significantly contribute to predicting customer loan repayment probability? Provide explanations.
 
-Which model give best performances for this dataset? Figure out
+Which model demonstrates the best performance in predicting customer loan repayment probability for this dataset? Explore and analyze.
 
-What can we do for those insights in this business context?
+How can these insights be applied in the context of lending business?
 
-Main solutions from the project (See report file in detail)
+##Challenges Faced by Customers in Making Financial Decisions for Loans
 
-CUSTOMER CHURNS WHO HAVE MORE CONTACTS WITH CUSTOMER SERVICE
+What are the key obstacles and patterns that indicate customers' difficulties in making financial decisions when applying for loans?
 
-Organize follow-up training for employees to improve the ability to thoroughly solve customer problems, conduct a satisfaction survey.
+How do different factors within the dataset interrelate and influence each other in understanding customers' challenges in making financial decisions for loans?
 
-Improve purchase policy and special benefits, vouchers suitable for customers who call many times reduce the possibility of customers leaving.
+Which specific attributes significantly impact the understanding of customers' difficulties in making financial decisions for loans? Provide explanations.
 
-Collect more data to analyze the content of calls, periodically update common problems to develop quick resolution standards.
-
-DIFFICULTIES OF CUSTOMERS IN MAKING PURCHASING DECISIONS
-
-Proposing customers to buy membership cards to receive incentives quickly and increasingly promote customer decision-making
-
-Push Notifications for Promotional Orders in Customer's Cart
-
-Create time- or quantity-limited urgency for high-throughput or add-to-cart products
-
-CUSTOMER PROBLEMS WITH CREDIT INFORMATION ON E-COMMERCE PLATFORMS
-
-Strengthen and develop a team of highly qualified credit professionals to directly and thoroughly support customers' related issues
-
-Use online tools and chatbot to increase user friendliness and save time for customers who want to find accurate information about policies
-
-Perform multi-layer verification before actions related to credit payments or information changes
+Which model demonstrates the highest performance in understanding customers' challenges in making financial decisions for loans within this dataset? Explore and analyze.
